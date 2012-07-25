@@ -1,4 +1,3 @@
-
 public class Test {
 
     /**
@@ -6,8 +5,9 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        int a =1;
-       double c = 22;
+        int a = 1;
+        double c = 22333;
+        String ssString = "vvvvvvcxvsfsdf";
     }
 
 }
